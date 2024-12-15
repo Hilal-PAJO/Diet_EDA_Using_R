@@ -16,16 +16,29 @@ The dataset includes variables such as stress, sleep, age, gender, calorie consu
 In this study, data cleaning, exploratory analysis, regression analysis and hypothesis testing were performed using R.
 
 ABOUT THIS FILE
+
 📌Participant ID: Unique identifier for each participant in the study.
+
 📌Age: The age of the participant (in years), which can influence metabolism and weight change.
+
 📌Gender: Gender of the participant (M/F), as physiological differences may affect weight management.
+
 📌Current Weight (lbs): The participant's weight at the beginning of the study, serving as a baseline for weight change.
+
 📌BMR (Calories): Basal Metabolic Rate, calculated using the Mifflin-St Jeor equation, representing the number of calories burned at rest.
+
 📌Daily Calories Consumed: Total caloric intake per day, including variability to reflect real-world eating habits.
+
 📌Daily Caloric Surplus/Deficit: The difference between calories consumed and BMR, indicating whether the participant is in a caloric surplus or deficit.
+
 📌Weight Change (lbs): The estimated change in weight over a specified duration, based on caloric surplus/deficit.
+
 📌Duration (weeks): The time period over which weight change is measured, ranging from 1 to 12 weeks.
+
 📌Physical Activity Level: Self-reported level of physical activity, categorized as Sedentary, Lightly Active, Moderately Active, or Very Active.
+
 📌Sleep Quality: Self-reported quality of sleep, categorized as Poor, Fair, Good, or Excellent, which can affect weight management.
+
 📌Stress Level: A numerical score (1-10) indicating the participant's perceived stress level, as stress can influence eating behaviors and weight.
+
 
